@@ -13,5 +13,5 @@ CUDA &nbsp; 11.0
 > scipy&nbsp;&nbsp; &nbsp; &emsp;&emsp;&emsp;&emsp;&emsp;1.5.2  
 
 ## Execution
-python robot-walk.py > debug.out 2>&1 
+python robot-walk.py > debug.out 2>&1
 
